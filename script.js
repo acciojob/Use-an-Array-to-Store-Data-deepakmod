@@ -1,1 +1,1 @@
-
+let simpleArray = ['one', 1, true,["one",1,true],{ one: 1, two: "one"}];
